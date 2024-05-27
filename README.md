@@ -12,3 +12,6 @@ _A guide to speedrun soft processors on different FPGAs using the vendors tools_
 * Video recorded?
 * Hello World over JTAG or UART
 * Different Variations later   
+  * Benchmarking
+  * Full Application FLASH -> FSBL -> DDR -> Output?
+  * Linux
